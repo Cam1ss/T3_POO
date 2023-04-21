@@ -2,4 +2,8 @@
 
 | Questões | Enunciado |
 | ------------- | -------------- |
-|  `01`  | Façaum programa que receba quatro números inteiros, calcule e mostre a soma desses números  |
+|  `01`  | **Um funcionário de uma empresa recebe aumento salarial anualmente. Sabe-se que:** <br> _a) esse funcionário foi contratado em 1995, com salário inicial de R$ 1.000,00._ <br> _b) em 1996 recebeu aumento de 1,5% sobre seu salário inicial_ <br> _c) a partir de 1997 (inclusive), os aumentos salariais sempre corresponderam ao dobro do percentual do ano anterior._ <br> <br> **Faça um programa que determine o salário atual desse funcionário.** |
+|  `04`  | **Façaum programa que leia cinco pares de valores (a,b), todos inteiros e positivos, um de cada vez. Mostre os números inteiros pares de a até b (inclusive).** |
+|  `05`  | **Façaum programa que leia dez conjuntos de dois valores, o primeiro representando o número do aluno e o segundo representando a sua altura em centímetros. Encontre o aluno mais alto e o mais baixo. Mostre o número do aluno mais alto e o número do mais baixo, Junto com suas alturas.** |
+|  `06`  | **Foi feita uma estatística em cinco cidades brasileiras para coletar dados sobre acidentes de trânsito. Foram obtidos os seguintes dados:** <br> _a) código da cidade_ <br> _b) número de veículos de passeio (em 1999)_ <br> _c) número de acidentes de trânsito com vítimas (em 1999)_ <br> <br> **Deseja-se saber:** <br> _a) qual o maior e o menor índice de acidentes de trânsito e a que cidades pertencem_ <br> _b) qual a média de veículos nas cinco cidades juntas_ <br> _c) qual a média de acidentes de trânsito nas cidades com menos de 2.000 veículos de passeio._ |
+|  `12`  | **Faça um programa que receba o valor de X e o número de termos desejados. Calcule e mostre o valor da seguinte seqiiência:** <br> <br> _S = 1 + X/3! - X/4! + X/5! = X/6! + X/7! - ..._ |
